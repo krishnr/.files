@@ -1,0 +1,42 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc",
+		".*"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".*",
+		"__pycache__",
+		"env3"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_icons": true,
+	"word_wrap": true
+}

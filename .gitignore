@@ -1,0 +1,14 @@
+.DS_Store
+.build
+
+*.pyc
+*.cache
+
+*.last-run
+*.ca-list
+*.ca-bundle
+*.system-ca-bundle
+*.user-ca-bundle
+*.merged-ca-bundle
+*.cache/
+*.ca-certs/
