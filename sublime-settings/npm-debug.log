@@ -1,0 +1,182 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', '-g', 'install', 'jslint' ]
+2 info using npm@1.1.59
+3 info using node@v0.8.8
+4 verbose read json /usr/local/lib/package.json
+5 verbose read json /usr/local/lib/package.json
+6 verbose cache add [ 'jslint', null ]
+7 silly cache add name=undefined spec="jslint" args=["jslint",null]
+8 verbose parsed url { pathname: 'jslint', path: 'jslint', href: 'jslint' }
+9 silly lockFile 606b7026-jslint jslint
+10 verbose lock jslint /Users/gsquare567/.npm/606b7026-jslint.lock
+11 silly lockFile 606b7026-jslint jslint
+12 verbose addNamed [ 'jslint', '' ]
+13 verbose addNamed [ null, '' ]
+14 silly lockFile 564fcf84-jslint jslint@
+15 verbose lock jslint@ /Users/gsquare567/.npm/564fcf84-jslint.lock
+16 silly addNameRange { name: 'jslint', range: '', hasData: false }
+17 verbose url raw jslint
+18 verbose url resolving [ 'https://registry.npmjs.org/', './jslint' ]
+19 verbose url resolved https://registry.npmjs.org/jslint
+20 info retry registry request attempt 1 at 12:07:38
+21 http GET https://registry.npmjs.org/jslint
+22 http 200 https://registry.npmjs.org/jslint
+23 silly registry.get cb [ 200,
+23 silly registry.get   { vary: 'Accept',
+23 silly registry.get     server: 'CouchDB/1.2.0 (Erlang OTP/R15B)',
+23 silly registry.get     etag: '"XSUL6G6O0BETGWE7E60R2EL7"',
+23 silly registry.get     date: 'Fri, 31 Aug 2012 16:07:38 GMT',
+23 silly registry.get     'content-type': 'application/json',
+23 silly registry.get     'content-length': '16035' } ]
+24 silly addNameRange number 2 { name: 'jslint', range: '', hasData: true }
+25 silly addNameRange versions [ 'jslint',
+25 silly addNameRange   [ '0.0.2',
+25 silly addNameRange     '0.0.3',
+25 silly addNameRange     '0.1.0',
+25 silly addNameRange     '0.1.1',
+25 silly addNameRange     '0.1.2',
+25 silly addNameRange     '0.1.3',
+25 silly addNameRange     '0.1.4',
+25 silly addNameRange     '0.1.5',
+25 silly addNameRange     '0.1.6',
+25 silly addNameRange     '0.1.8',
+25 silly addNameRange     '0.1.9' ] ]
+26 verbose addNamed [ 'jslint', '0.1.9' ]
+27 verbose addNamed [ '0.1.9', '0.1.9' ]
+28 silly lockFile 68a698b2-jslint-0-1-9 jslint@0.1.9
+29 verbose lock jslint@0.1.9 /Users/gsquare567/.npm/68a698b2-jslint-0-1-9.lock
+30 silly lockFile e8626a5f-pmjs-org-jslint-jslint-0-1-9-tgz https://registry.npmjs.org/jslint/-/jslint-0.1.9.tgz
+31 verbose lock https://registry.npmjs.org/jslint/-/jslint-0.1.9.tgz /Users/gsquare567/.npm/e8626a5f-pmjs-org-jslint-jslint-0-1-9-tgz.lock
+32 verbose addRemoteTarball [ 'https://registry.npmjs.org/jslint/-/jslint-0.1.9.tgz',
+32 verbose addRemoteTarball   'f2699f8fdbbb821d6084a1b222977acf0c88b932' ]
+33 info retry fetch attempt 1 at 12:07:38
+34 verbose fetch to= /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/tmp.tgz
+35 http GET https://registry.npmjs.org/jslint/-/jslint-0.1.9.tgz
+36 http 200 https://registry.npmjs.org/jslint/-/jslint-0.1.9.tgz
+37 silly shasum updated bytes 40960
+38 silly shasum updated bytes 5322
+39 info shasum f2699f8fdbbb821d6084a1b222977acf0c88b932
+39 info shasum /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/tmp.tgz
+40 verbose tar unpack /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/tmp.tgz
+41 silly lockFile a40ad293-58993-0-9185937060974538-package /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package
+42 verbose lock /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package /Users/gsquare567/.npm/a40ad293-58993-0-9185937060974538-package.lock
+43 silly gunzTarPerm modes [ '777', '666' ]
+44 silly gunzTarPerm extractEntry package.json
+45 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+46 silly gunzTarPerm extractEntry .npmignore
+47 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+48 silly gunzTarPerm extractEntry README.md
+49 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+50 silly gunzTarPerm extractEntry LICENSE
+51 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+52 silly gunzTarPerm extractEntry bin/jslint.js
+53 silly gunzTarPerm modified mode [ 'bin/jslint.js', 493, 511 ]
+54 silly gunzTarPerm extractEntry lib/color.js
+55 silly gunzTarPerm modified mode [ 'lib/color.js', 420, 438 ]
+56 silly gunzTarPerm extractEntry lib/jslint.js
+57 silly gunzTarPerm modified mode [ 'lib/jslint.js', 420, 438 ]
+58 silly gunzTarPerm extractEntry lib/linter.js
+59 silly gunzTarPerm modified mode [ 'lib/linter.js', 420, 438 ]
+60 silly gunzTarPerm extractEntry lib/nodelint.js
+61 silly gunzTarPerm modified mode [ 'lib/nodelint.js', 420, 438 ]
+62 silly gunzTarPerm extractEntry lib/reporter.js
+63 silly gunzTarPerm modified mode [ 'lib/reporter.js', 420, 438 ]
+64 silly gunzTarPerm extractEntry Makefile
+65 silly gunzTarPerm modified mode [ 'Makefile', 420, 438 ]
+66 verbose read json /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package/package.json
+67 silly lockFile a40ad293-58993-0-9185937060974538-package /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package
+68 verbose from cache /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package/package.json
+69 verbose tar pack [ '/Users/gsquare567/.npm/jslint/0.1.9/package.tgz',
+69 verbose tar pack   '/var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package' ]
+70 verbose tarball /Users/gsquare567/.npm/jslint/0.1.9/package.tgz
+71 verbose folder /var/folders/_5/jx_v38nn2yg5g__c9lp_l2nw0000gn/T/npm-22755/1346429258993-0.9185937060974538/package
+72 silly lockFile b0ee7f65-567-npm-jslint-0-1-9-package-tgz /Users/gsquare567/.npm/jslint/0.1.9/package.tgz
+73 verbose lock /Users/gsquare567/.npm/jslint/0.1.9/package.tgz /Users/gsquare567/.npm/b0ee7f65-567-npm-jslint-0-1-9-package-tgz.lock
+74 silly lockFile b0ee7f65-567-npm-jslint-0-1-9-package-tgz /Users/gsquare567/.npm/jslint/0.1.9/package.tgz
+75 silly lockFile 3fc86b54-uare567-npm-jslint-0-1-9-package /Users/gsquare567/.npm/jslint/0.1.9/package
+76 verbose lock /Users/gsquare567/.npm/jslint/0.1.9/package /Users/gsquare567/.npm/3fc86b54-uare567-npm-jslint-0-1-9-package.lock
+77 silly lockFile 3fc86b54-uare567-npm-jslint-0-1-9-package /Users/gsquare567/.npm/jslint/0.1.9/package
+78 verbose tar unpack /Users/gsquare567/.npm/jslint/0.1.9/package.tgz
+79 silly lockFile 3fc86b54-uare567-npm-jslint-0-1-9-package /Users/gsquare567/.npm/jslint/0.1.9/package
+80 verbose lock /Users/gsquare567/.npm/jslint/0.1.9/package /Users/gsquare567/.npm/3fc86b54-uare567-npm-jslint-0-1-9-package.lock
+81 silly gunzTarPerm modes [ '777', '666' ]
+82 silly gunzTarPerm extractEntry package.json
+83 silly gunzTarPerm extractEntry .npmignore
+84 silly gunzTarPerm extractEntry README.md
+85 silly gunzTarPerm extractEntry LICENSE
+86 silly gunzTarPerm extractEntry bin/jslint.js
+87 silly gunzTarPerm extractEntry lib/color.js
+88 silly gunzTarPerm extractEntry lib/jslint.js
+89 silly gunzTarPerm extractEntry lib/linter.js
+90 silly gunzTarPerm extractEntry lib/nodelint.js
+91 silly gunzTarPerm extractEntry lib/reporter.js
+92 silly gunzTarPerm extractEntry Makefile
+93 verbose read json /Users/gsquare567/.npm/jslint/0.1.9/package/package.json
+94 silly lockFile 3fc86b54-uare567-npm-jslint-0-1-9-package /Users/gsquare567/.npm/jslint/0.1.9/package
+95 silly shasum updated bytes 40960
+96 silly shasum updated bytes 5330
+97 info shasum 217291b36013b3f078ff17bf56c84178340b7a49
+97 info shasum /Users/gsquare567/.npm/jslint/0.1.9/package.tgz
+98 verbose from cache /Users/gsquare567/.npm/jslint/0.1.9/package/package.json
+99 verbose chmod /Users/gsquare567/.npm/jslint/0.1.9/package.tgz 666
+100 verbose chown /Users/gsquare567/.npm/jslint/0.1.9/package.tgz [ 501, 20 ]
+101 silly lockFile e8626a5f-pmjs-org-jslint-jslint-0-1-9-tgz https://registry.npmjs.org/jslint/-/jslint-0.1.9.tgz
+102 silly lockFile 68a698b2-jslint-0-1-9 jslint@0.1.9
+103 silly lockFile 564fcf84-jslint jslint@
+104 silly resolved [ { name: 'jslint',
+104 silly resolved     description: 'The JavaScript Code Quality Tool',
+104 silly resolved     homepage: 'https://github.com/reid/node-jslint',
+104 silly resolved     keywords: [ 'lint' ],
+104 silly resolved     version: '0.1.9',
+104 silly resolved     author: { name: 'Reid Burke', email: 'me@reidburke.com' },
+104 silly resolved     contributors: [ [Object], [Object], [Object], [Object], [Object] ],
+104 silly resolved     bin: { jslint: './bin/jslint.js' },
+104 silly resolved     main: './lib/nodelint.js',
+104 silly resolved     dependencies: { nopt: '~1.0.0' },
+104 silly resolved     engines: { node: '>=0.4.12' },
+104 silly resolved     directories: { lib: './lib' },
+104 silly resolved     repository: { type: 'git', url: 'git://github.com/reid/node-jslint.git' },
+104 silly resolved     bugs: { url: 'https://github.com/reid/node-jslint/issues' },
+104 silly resolved     licenses: [ [Object] ],
+104 silly resolved     readme: '## node-jslint\n\nEasily use [JSLint][] from the command line.\n\n    jslint app.js\n\n## Install\n\n    npm install jslint\n\n## Self-Lint\n\n    make lint\n\n## Usage examples\n\nMultiple files\n\n    jslint lib/worker.js lib/server.js\n\nAll JSLint options supported\n\n    jslint --white --vars --regexp app.js\n\nDefaults to true, but you can specify false\n\n    jslint --bitwise false app.js\n\nPass arrays\n\n\tjslint --predef $ --predef Backbone app.js\n\nJSLint your entire project\n\n\tfind . -name "*.js" -print0 | xargs -0 jslint\n\n\n## License\n\nSee LICENSE file.\n\n[JSLint]: http://jslint.com/\n',
+104 silly resolved     _id: 'jslint@0.1.9',
+104 silly resolved     dist: { shasum: '217291b36013b3f078ff17bf56c84178340b7a49' },
+104 silly resolved     _from: 'jslint' } ]
+105 info install jslint@0.1.9 into /usr/local/lib
+106 info installOne jslint@0.1.9
+107 verbose from cache /Users/gsquare567/.npm/jslint/0.1.9/package/package.json
+108 info /usr/local/lib/node_modules/jslint unbuild
+109 verbose read json /usr/local/lib/node_modules/jslint/package.json
+110 verbose tar unpack /Users/gsquare567/.npm/jslint/0.1.9/package.tgz
+111 silly lockFile e65d9413-sr-local-lib-node-modules-jslint /usr/local/lib/node_modules/jslint
+112 verbose lock /usr/local/lib/node_modules/jslint /Users/gsquare567/.npm/e65d9413-sr-local-lib-node-modules-jslint.lock
+113 silly gunzTarPerm modes [ '777', '666' ]
+114 error Error: EACCES, mkdir '/usr/local/lib/node_modules/jslint'
+114 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules/jslint']
+114 error   errno: 3,
+114 error   code: 'EACCES',
+114 error   path: '/usr/local/lib/node_modules/jslint',
+114 error   fstream_type: 'Directory',
+114 error   fstream_path: '/usr/local/lib/node_modules/jslint',
+114 error   fstream_class: 'DirWriter',
+114 error   fstream_stack:
+114 error    [ 'DirWriter._create (/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23)',
+114 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:37:53',
+114 error      'Object.oncomplete (fs.js:297:15)' ] }
+115 error Please try running this command again as root/Administrator.
+116 error System Darwin 11.4.2
+117 error command "node" "/usr/local/bin/npm" "-g" "install" "jslint"
+118 error cwd /Users/gsquare567/Library/Application Support/Sublime Text 2/Packages/User
+119 error node -v v0.8.8
+120 error npm -v 1.1.59
+121 error path /usr/local/lib/node_modules/jslint
+122 error fstream_path /usr/local/lib/node_modules/jslint
+123 error fstream_type Directory
+124 error fstream_class DirWriter
+125 error code EACCES
+126 error errno 3
+127 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules/jslint'
+128 error fstream_stack DirWriter._create (/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23)
+128 error fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:37:53
+128 error fstream_stack Object.oncomplete (fs.js:297:15)
+129 verbose exit [ 3, true ]

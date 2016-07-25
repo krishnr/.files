@@ -30,3 +30,14 @@ if [ $? -eq 0 ]; then
         git diff --no-index --color-words "$@";
     }
 fi;
+
+# Searching google
+google() {
+    search="";
+    echo "Googling: $@";
+    for term in $@;
+    do
+        search="$search%20$term";
+    done;
+    open "http://www.google.com/search?q=$search";
+}

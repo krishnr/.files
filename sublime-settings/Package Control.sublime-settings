@@ -1,0 +1,45 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Babel",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Case Conversion",
+		"CoffeeScript",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Inc-Dec-Value",
+		"jQuery",
+		"JSHint",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Material Theme",
+		"Modific",
+		"Navigation History",
+		"Package Control",
+		"Phix Color Scheme",
+		"Pretty JSON",
+		"Pylinter",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeJava",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SyncedSideBar",
+		"Theme - Spacegray"
+	]
+}

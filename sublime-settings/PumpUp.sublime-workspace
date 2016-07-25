@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"swi",
+				"switchExercisePicture"
+			],
+			[
+				"images",
+				"imagesContainer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/Workout/WorkoutSectionProgress.js",
+			"settings":
+			{
+				"buffer_size": 3443,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/member/workouts/start.js",
+			"settings":
+			{
+				"buffer_size": 31585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gsquare567/Projects/pumpup/mobile/css/libs/font_awesome/docs/assets/js/index/index.js",
+			"settings":
+			{
+				"buffer_size": 2005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/member/workouts/exercise.js",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/visitor/login.js",
+			"settings":
+			{
+				"buffer_size": 4961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gsquare567/Projects/pumpup/mobile/.htaccess",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gsquare567/Projects/pumpup/mobile/js/views/visitor/login.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/index.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/router.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/main.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/.htaccess",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/member/workouts/exercise.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/elements/workouts/exerciseRow.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/views/member/workouts/exercise.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/member/workouts/view.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/elements/workouts/schedule.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/css/mobile.css",
+		"/Users/gsquare567/Projects/pumpup/js/views/Exercise/ExerciseDetailsPopup.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/member/workouts/build/slide2.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/member/workouts/build/slide3.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/views/member/workouts/build/slide3.js",
+		"/Users/gsquare567/Projects/pumpup/js/models/Workout.js",
+		"/Users/gsquare567/Projects/pumpup/js/models/WorkoutSection.js",
+		"/Users/gsquare567/Projects/pumpup/js/models/WorkoutExercise.js",
+		"/Users/gsquare567/Projects/pumpup/index.html",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/libs/require/require.js",
+		"/Users/gsquare567/Projects/pumpup/js/libs/require/require.js",
+		"/Users/gsquare567/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/app.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/text.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/views/visitor/login",
+		"/Users/gsquare567/Projects/pumpup/mobile/js/jqm-config.js",
+		"/Users/gsquare567/Downloads/codiqa-app/app.html",
+		"/Users/gsquare567/Projects/pumpup/js/main.js",
+		"/Users/gsquare567/Projects/pumpup/js/app.js",
+		"/Users/gsquare567/Projects/pumpup/mobile/templates/visitor/login.html",
+		"/Users/gsquare567/Projects/pumpup/js/views/beta/login.js",
+		"/Users/gsquare567/Projects/pumpup/js/router.js",
+		"/Users/gsquare567/Projects/pumpup/js/pumpup.js",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/gsquare567/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"/Users/gsquare567/Projects/pumpup/js/libs/require"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"window.history.back",
+			"window.his",
+			"progressbarclick :",
+			"progressbarclick",
+			" data-mini=\"true\"",
+			"muscleSelectionWrapper",
+			"fatLossMessage",
+			"ui-controlgroup-controls",
+			"history",
+			"$('#exerciseDetailsPopup ",
+			";\n",
+			"h2",
+			"workout",
+			"workoutView : function(workoutId) {\n            if(!this.redirectIfNotLoggedIn()) {\n                // if the workout we want is already loaded, use it (use case is after workout build)\n                if(globals.curWorkout != undefined && globals.curWorkout.id == workoutId)\n                    this.changePage(new WorkoutView({ model : globals.curWorkout }));\n                else {\n                    var that = this;\n                    \n                    // get the workout\n                    var q = new Parse.Query(Workout);\n                    q.include(\"schedule\");\n                    q.get(workoutId, {\n                        success : function(workout) {\n                            // set the global workout to this workout\n                            globals.curWorkout = workout;\n                            \n                            // change the page\n                            that.changePage(new WorkoutView({ model : globals.curWorkout }));\n                        }\n                    });\n                }\n            }\n        },",
+			"workout",
+			"exerciseview"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" data-mini=\"true\"",
+			"this.$('",
+			"$('#exerciseDetailsPopup ",
+			"exercise",
+			"workoutView : function(workoutId) {\n            if(!this.redirectIfNotLoggedIn()) {\n                // if the workout we want is already loaded, use it (use case is after workout build)\n                if(globals.curWorkout != undefined && globals.curWorkout.id == workoutId)\n                    this.changePage(new WorkoutView({ model : globals.curWorkout }));\n                else {\n                    var that = this;\n                    \n                    // get the workout\n                    var q = new Parse.Query(Workout);\n                    q.include(\"schedule\");\n                    q.get(workoutId, {\n                        success : function(workout) {\n                            // set the global workout to this workout\n                            globals.curWorkout = workout;\n                            \n                            // change the page\n                            that.changePage(new WorkoutView({ model : globals.curWorkout }));\n                        }\n                    });\n                }\n            }\n        },",
+			"workout",
+			"exercise"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/Workout/WorkoutSectionProgress.js",
+					"settings":
+					{
+						"buffer_size": 3443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3140,
+								3140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1862.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/member/workouts/start.js",
+					"settings":
+					{
+						"buffer_size": 31585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24782,
+								24782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15705.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/gsquare567/Projects/pumpup/mobile/css/libs/font_awesome/docs/assets/js/index/index.js",
+					"settings":
+					{
+						"buffer_size": 2005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1819,
+								1819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1278.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/member/workouts/exercise.js",
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/gsquare567/Projects/pumpup/mobile/js/views/visitor/login.js",
+					"settings":
+					{
+						"buffer_size": 4961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4342,
+								4342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3008.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/gsquare567/Projects/pumpup/mobile/.htaccess",
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 37.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".htacc",
+				"mobile/.htaccess"
+			],
+			[
+				"mobilelogin",
+				"mobile/js/views/visitor/login.js"
+			],
+			[
+				"start.js",
+				"mobile/js/views/member/workouts/start.js"
+			],
+			[
+				"workoutsectionpro",
+				"mobile/js/views/Workout/WorkoutSectionProgress.js"
+			],
+			[
+				"exercise.",
+				"mobile/js/views/member/workouts/exercise.js"
+			],
+			[
+				"workoutex",
+				"js/models/WorkoutExercise.js"
+			],
+			[
+				"workoutsec",
+				"js/models/WorkoutSection.js"
+			],
+			[
+				"workout.js",
+				"js/models/Workout.js"
+			],
+			[
+				"slide3.js",
+				"mobile/js/views/member/workouts/build/slide3.js"
+			],
+			[
+				"slide3",
+				"mobile/templates/member/workouts/build/slide3.html"
+			],
+			[
+				"slide2",
+				"mobile/templates/member/workouts/build/slide2.html"
+			],
+			[
+				"mobile/rou",
+				"mobile/js/router.js"
+			],
+			[
+				"exercisedetail",
+				"js/views/Exercise/ExerciseDetailsPopup.js"
+			],
+			[
+				"mobile.css",
+				"mobile/css/mobile.css"
+			],
+			[
+				"mobile/sche",
+				"mobile/templates/elements/workouts/schedule.html"
+			],
+			[
+				"mobile/workout.html",
+				"mobile/templates/member/workouts/view.html"
+			],
+			[
+				"exercise.js",
+				"mobile/js/views/member/workouts/exercise.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true
+}
