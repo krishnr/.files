@@ -41,3 +41,13 @@ google() {
     done;
     open "http://www.google.com/search?q=$search";
 }
+
+# git add all, commit and push
+gpa() {
+    git commit -am "$1" && git push
+}
+
+# git commit
+gc() {
+    git commit -mv "$@";
+}

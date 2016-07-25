@@ -49,8 +49,6 @@ alias mergepdf='/System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Re
 # git stuff
 alias g="git"
 alias gs="git status"
-alias gc="git commit -m"
-alias gca="git add -A && git commit -m"
 alias gp="git push origin HEAD"
 alias gss="git status -s"
 alias gco="git checkout"
@@ -61,7 +59,9 @@ alias gd="git diff"
 alias gf="git fetch"
 alias gpull="git pull"
 
-# websites
+# internet stuff
 alias fb='open "http://facebook.com"'
 alias github='open "http://github.com/krishnr"'
 alias twitter='open "http://twitter.com"'
+alias vim-help='open "http://vim.rtorr.com/"'
+alias bash-help='open "https://files.fosswire.com/2007/08/fwunixref.pdf" && open "http://cli.learncodethehardway.org/bash_cheat_sheet.pdf"'
