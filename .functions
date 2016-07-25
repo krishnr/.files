@@ -44,7 +44,7 @@ google() {
 
 # git add all, commit and push
 gpa() {
-    git commit -am "$1" && git push
+    git commit -avm "$*" && git push -v origin HEAD
 }
 
 # git commit
