@@ -48,6 +48,18 @@ alias mergepdf='/System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Re
 
 # git stuff
 alias g="git"
+alias gs="git status"
+alias gc="git commit -m"
+alias gca="git add -A && git commit -m"
+alias gp="git push origin HEAD"
+alias gss="git status -s"
+alias gco="git checkout"
+alias gcob="git checkout -b"
+alias ga="git add"
+alias gaa="git add ."
+alias gd="git diff"
+alias gf="git fetch"
+alias gpull="git pull"
 
 # websites
 alias fb='open "http://facebook.com"'
